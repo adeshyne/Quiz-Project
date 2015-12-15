@@ -1,0 +1,29 @@
+GEM
+  specs:
+    autoprefixer-rails (6.0.3)
+      execjs
+      json
+    bootstrap-sass (3.3.5.1)
+      autoprefixer-rails (>= 5.0.0.1)
+      sass (>= 3.3.0)
+    execjs (2.6.0)
+    json (1.8.3)
+    rack (1.6.4)
+    rack-protection (1.5.3)
+      rack
+    sass (3.4.20)
+    sinatra (1.4.6)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (>= 1.3, < 3)
+    tilt (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bootstrap-sass
+  sinatra
+
+BUNDLED WITH
+   1.10.6
